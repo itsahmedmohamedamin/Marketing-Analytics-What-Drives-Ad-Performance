@@ -15,7 +15,8 @@
 
 3- **Visualizing conversion rate by job**
 
-![download (3)](https://github.com/itsahmedmohamedamin/Marketing-Analytics-What-Drives-Ad-Performance/assets/50253297/df974848-2ade-49da-8be2-fcdcb05b34fc)
+![download (6)](https://github.com/itsahmedmohamedamin/Marketing-Analytics-What-Drives-Ad-Performance/assets/50253297/6ff1ed88-46c3-4dd6-8449-5f72361f4ed5)
+
 > Variability in Conversion Rates by Job: There are clear differences in conversion rates based on job categories. Some jobs have higher conversion rates than others, indicating that occupation is a factor in whether or not someone is likely to convert.
 
 > Students and Retired People are the top 2 categories that make conversions
@@ -24,3 +25,24 @@
 
 ![download (4)](https://github.com/itsahmedmohamedamin/Marketing-Analytics-What-Drives-Ad-Performance/assets/50253297/71e1e9ea-b971-4d83-8ffc-602d588125ec)
 > Most of the people who convert are aged between 20 and 40
+
+5- **Visualizing Balance VS Converted**
+
+![download (5)](https://github.com/itsahmedmohamedamin/Marketing-Analytics-What-Drives-Ad-Performance/assets/50253297/d6e1d3de-76ab-451e-a09a-386d8abe1245)
+> Customers who have converted typically exhibit balance amounts ranging from 0 to 60K, with a gradual decrease in conversion likelihood corresponding to an increase in balance levels.
+
+6- **Visualizing Marital Status and Conversion**
+
+![download (7)](https://github.com/itsahmedmohamedamin/Marketing-Analytics-What-Drives-Ad-Performance/assets/50253297/2a8777a8-aeb5-49d9-9f0c-bc56e7144f02)
+> The highest conversion rates are observed among single and divorced individuals, while married individuals appear to have the lowest conversion rates.
+
+7- **Visualizing Education and Conversion**
+
+![download (8)](https://github.com/itsahmedmohamedamin/Marketing-Analytics-What-Drives-Ad-Performance/assets/50253297/d0d15042-3147-4a0c-b466-b7efbe12c3ef)
+> The highest conversion rates are observed among Tertiary level of Eductation
+
+8- **Visualizing Effect of Housing and Personal Loans on Conversion**
+
+![download (9)](https://github.com/itsahmedmohamedamin/Marketing-Analytics-What-Drives-Ad-Performance/assets/50253297/1db2e4d0-bb3d-421a-9609-027695ef56a3)
+> Individuals without housing obligations tend to have higher conversion rates compared to those with such commitments. Similarly, those free from personal loan responsibilities also exhibit increased conversion rates over those who have personal loans.
+
