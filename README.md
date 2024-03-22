@@ -19,3 +19,8 @@
 > Variability in Conversion Rates by Job: There are clear differences in conversion rates based on job categories. Some jobs have higher conversion rates than others, indicating that occupation is a factor in whether or not someone is likely to convert.
 
 > Students and Retired People are the top 2 categories that make conversions
+
+4- **Visualizing Age Distribution of Customers**
+
+![download (4)](https://github.com/itsahmedmohamedamin/Marketing-Analytics-What-Drives-Ad-Performance/assets/50253297/71e1e9ea-b971-4d83-8ffc-602d588125ec)
+> Most of the people who convert are aged between 20 and 40
