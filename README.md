@@ -1,5 +1,5 @@
 # Marketing Analytics: What Drives Ad Performance
-## Below is a detailed Data Analysis for Ad Campaign Performace and after that, there is a ML Model that predict if the person will convert or not based on the data in the Data set. The model is done by two ways, the first one is done by Logistic Regression and it gives 89.16% accuracy, the second one is done by MLP Neural Network (Multilayer Perceptron) and it gives 87.9% accuracy.
+## Enclosed is a comprehensive analysis of advertising campaign effectiveness, followed by a ML model that estimates the likelihood of conversion based on dataset parameters. The ML model was conducted using two methods: the first employed Logistic Regression, yielding an accuracy of 89.16%, and the second utilized a Multilayer Perceptron (MLP) Neural Network, achieving an accuracy of 87.9%.
 
 1- **Visualize how the output variable (converted) changes with different incomes**
 
