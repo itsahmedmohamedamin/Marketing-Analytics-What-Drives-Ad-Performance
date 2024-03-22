@@ -46,3 +46,22 @@
 ![download (9)](https://github.com/itsahmedmohamedamin/Marketing-Analytics-What-Drives-Ad-Performance/assets/50253297/1db2e4d0-bb3d-421a-9609-027695ef56a3)
 > Individuals without housing obligations tend to have higher conversion rates compared to those with such commitments. Similarly, those free from personal loan responsibilities also exhibit increased conversion rates over those who have personal loans.
 
+9- **Visualizing Monthly Conversion Trends**
+
+![download (10)](https://github.com/itsahmedmohamedamin/Marketing-Analytics-What-Drives-Ad-Performance/assets/50253297/6a656b33-59e9-494f-ad68-02ba77cd5d73)
+> The highest conversion rates are observed in the months of March, September, and December.
+
+10- **Visualizing Campaign Contacts and Conversion**
+
+![download (11)](https://github.com/itsahmedmohamedamin/Marketing-Analytics-What-Drives-Ad-Performance/assets/50253297/231fe392-baf6-46be-8256-75f9b550f273)
+> The conversion rate remains high with up to 34 contact attempts and then diminishes completely.
+
+11- **Visualizing Previous Campaign Outcomes**
+
+![download (12)](https://github.com/itsahmedmohamedamin/Marketing-Analytics-What-Drives-Ad-Performance/assets/50253297/9f61085d-1d0f-4985-992d-1b6fb763a666)
+> The majority of previous campaigns have been successful.
+
+12- **Visualizing Ad Duration and Conversion**
+
+![download (13)](https://github.com/itsahmedmohamedamin/Marketing-Analytics-What-Drives-Ad-Performance/assets/50253297/100d54a3-4ac7-454d-bc29-4951dcb05f21)
+> The conversion rate tends to rise in correlation with increases in the duration of the advertisement exposure.
