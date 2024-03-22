@@ -10,3 +10,9 @@
 > Diminishing Returns: Initially, as the number of campaign contacts increases, the conversion rate seems to fluctuate but overall shows a trend of decrease. This could suggest that additional contacts do not necessarily lead to higher conversion rates and might even be counterproductive.
 
 > Optimal Contact Frequency: The highest conversion rates appear to occur at the lower end of the number of contacts (likely between 1-3 contacts), which may suggest that fewer, more strategic contacts could be more effective than numerous attempts.
+
+3- **Visualizing conversion rate by job**
+![download (3)](https://github.com/itsahmedmohamedamin/Marketing-Analytics-What-Drives-Ad-Performance/assets/50253297/df974848-2ade-49da-8be2-fcdcb05b34fc)
+> Variability in Conversion Rates by Job: There are clear differences in conversion rates based on job categories. Some jobs have higher conversion rates than others, indicating that occupation is a factor in whether or not someone is likely to convert.
+
+> Students and Retired People are the top 2 categories that make conversions
